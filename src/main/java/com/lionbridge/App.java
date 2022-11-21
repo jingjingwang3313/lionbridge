@@ -10,9 +10,6 @@ public class App
 {
     public static void main(String[] args)
     {
-        System.out.println("hello world !");
-        System.out.println("I'm good !");
-        System.out.println("you are good !");
         System.out.println("aaaaaaaaaaaaaaaa !");
         System.out.println("bbbbbbbbbbbbbbbb !");
     }
