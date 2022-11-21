@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9b528853-6c09-4f87-b4b1-dce7f9efeec7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="lionbridge" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="lionbridge" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="lionbridge" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\DevelopTools\Maven\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../Maven/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\DevelopTools\Maven\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="2ELVRQXqx8pM3VtO8IFtGxG0Bms" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SHUYAN" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lionbridge.App" />
+      <module name="lionbridge.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lionbridge [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="lionbridge [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.lionbridge [clean]" />
+        <item itemvalue="Gradle.lionbridge [build]" />
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="400" y="227" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1662375099613">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="400" y="227" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1280.689@0.0.1280.689" timestamp="1662375099613" />
+    <state x="2510" y="128" key="FileChooserDialogImpl" timestamp="1665743317612">
+      <screen x="1920" y="0" width="2048" height="1104" />
+    </state>
+    <state x="369" y="80" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1662374997331" />
+    <state x="2510" y="128" key="FileChooserDialogImpl/0.0.1536.816/1920.0.2048.1104@1920.0.2048.1104" timestamp="1665743317612" />
+    <state width="1239" height="142" key="GridCell.Tab.0.bottom" timestamp="1662391201928">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1239" height="142" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1662391201928" />
+    <state width="1239" height="142" key="GridCell.Tab.0.center" timestamp="1662391201928">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1239" height="142" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1662391201928" />
+    <state width="1239" height="142" key="GridCell.Tab.0.left" timestamp="1662391201928">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1239" height="142" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1662391201928" />
+    <state width="1239" height="142" key="GridCell.Tab.0.right" timestamp="1662391201928">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1239" height="142" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1662391201928" />
+    <state x="2335" y="120" width="1213" height="707" key="SettingsEditor" timestamp="1665743337427">
+      <screen x="1920" y="0" width="2048" height="1104" />
+    </state>
+    <state x="70" y="0" width="1079" height="689" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1662694348396" />
+    <state x="2335" y="120" width="1213" height="707" key="SettingsEditor/0.0.1536.816/1920.0.2048.1104@1920.0.2048.1104" timestamp="1665743337427" />
+    <state x="2195" y="98" key="new project wizard" timestamp="1665743284804">
+      <screen x="1920" y="0" width="2048" height="1104" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1280.689@0.0.1280.689" timestamp="1662387450603" />
+    <state x="2195" y="98" key="new project wizard/0.0.1536.816/1920.0.2048.1104@1920.0.2048.1104" timestamp="1665743284804" />
+  </component>
+</project>
