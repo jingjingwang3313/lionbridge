@@ -10,6 +10,6 @@ public class TestCtl
 {
     public static void main(String[] args)
     {
-        System.out.println("testctl3333333333333");
+        System.out.println("hello");
     }
 }
