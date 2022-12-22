@@ -12,7 +12,7 @@ public class TestCtl
     {
         System.out.println("hello");
         System.out.println("world");
-        System.out.println("jing");
+        System.out.println("laoda");
 
     }
 }
