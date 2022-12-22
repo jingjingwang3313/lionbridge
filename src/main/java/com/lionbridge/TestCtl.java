@@ -12,7 +12,8 @@ public class TestCtl
     {
         System.out.println("hello");
         System.out.println("world");
-        System.out.println("laoda");
+        System.out.println("wang");
+        System.out.println("jing");
 
     }
 }
